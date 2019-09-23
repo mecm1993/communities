@@ -2,7 +2,7 @@
 
 Find the communities you are interested and keep in touch.
 
-## Dominican Republic
+## <img src="https://camo.githubusercontent.com/ff79bbd6b8083dffbdf6c85849059651d91afba4/68747470733a2f2f7374617469632e647763646e2e6e65742f6373732f666c61672d69636f6e732f666c6167732f3478332f646f2e7376673f73616e6974697a653d74727565" alt="dominican-republic" width="50" /> Dominican Republic
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="30" />
 

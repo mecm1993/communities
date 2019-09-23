@@ -6,7 +6,7 @@ Find the communities you are interested and keep in touch.
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="30" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 |<img src="https://avatars3.githubusercontent.com/u/49649604?s=200&v=4" width="50" />|**ngDominican**|[<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/ngDominican)|
 |<img src="https://avatars0.githubusercontent.com/u/55147471?s=200&v=4" width="50" />|**Vue Dominicana**|[<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/VueDominicana)|
@@ -18,48 +18,48 @@ Find the communities you are interested and keep in touch.
 
 #### <img src="https://sdtimes.com/wp-content/uploads/2018/02/golang.sh_-490x490.png" alt="go" width="30" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 
 #### <img src="https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a-php-programming-language-icon-by-vexels.png" alt="php" width="30" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 | | **PHP Dominicana** |[<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/php-do)|
 
 
-#### <img src="https://www.stickpng.com/assets/images/58480979cef1014c0b5e4901.png" alt="java" width="20" />
+#### <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 |<img src="https://avatars0.githubusercontent.com/u/8772767?s=200&v=4" width="50" />|**Java Dominicano**|[<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/JavaDominicano)|
 
 
 #### <img src="https://banner2.kisspng.com/20180531/qfb/kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9.960696831527800102428.jpg" alt="csharp" width="25" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 |<img alt="dotnet-dominicana" src="https://avatars2.githubusercontent.com/u/43970109?s=200&v=4" width="50">|**DotNet Dominicana**|[<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/DotNetDo) [<img height="24" width="24" alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />](https://www.facebook.com/dotnetdo/)|
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" alt="ruby" width="20" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 
-#### <img src="https://www.stickpng.com/assets/images/5848152fcef1014c0b5e4967.png" alt="python" width="20" />
+#### <img src="https://i.dlpng.com/static/png/452568_preview.png" alt="python" width="30" />
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 
 #### <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png" alt="docker" width="30" />
 
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: | 
 
 ### Others
 
-|        |        |         |
+| Logo   | Name   | Links   |
 | :----: | :----: | :-----: |
 |<img src="https://avatars0.githubusercontent.com/u/3752839?s=200&v=4" alt="developers-dominicanos" width="50">|**Developers Dominicanos**|[<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/developersdo) [<img height="24" width="24" alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />](https://www.facebook.com/groups/devdominicanos/)|
 |<img src="https://avatars2.githubusercontent.com/u/15054994?s=200&v=4" alt="pycaribbean" width="50" />|**PyCaribbean**|[<img height="24" width="24" alt="website" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlechrome.svg" />](http://www.pycaribbean.com/) [<img height="24" width="24" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />](https://github.com/pycaribbean)|
